@@ -3,6 +3,7 @@ const error = require('../middleware/error');
 const sessoes = require('../routes/sessoes');
 const votos = require('../routes/votos');
 const usuarios = require('../routes/usuarios');
+const vereadores = require('../routes/vereadores');
 const auth = require('../routes/auth');
 
 module.exports = function (app) {
@@ -10,6 +11,7 @@ module.exports = function (app) {
   app.use('/api/sessoes', sessoes);
   app.use('/api/votos', votos);
   app.use('/api/usuarios', usuarios);
+  app.use('/api/vereadores', vereadores);
   app.use('/api/auth', auth);
   app.use(error);
 }
