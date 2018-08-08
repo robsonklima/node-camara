@@ -346,3 +346,17 @@
 {"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-07T18:23:47.807Z"}
 {"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-07T18:38:06.927Z"}
 {"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-07T18:38:06.962Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-07T18:40:51.891Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-07T18:40:51.923Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-07T19:22:52.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-07T19:22:52.606Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-07T20:48:18.492Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-07T20:48:18.529Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-07T20:48:31.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-07T20:48:31.836Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-08T01:50:27.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-08T01:50:27.811Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-08T02:31:31.523Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-08T02:31:31.555Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-08-08T11:39:32.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/camara.","timestamp":"2018-08-08T11:39:32.054Z"}
